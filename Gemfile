@@ -4,8 +4,8 @@ group :jekyll_plugins do
   gem 'wdm', '>= 0.1.0' if Gem.win_platform?
   gem 'tzinfo', '~> 2.0'
   gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-  gem 'jekyll'
-  gem "github-pages", group: :jekyll_plugins
+  #gem 'jekyll'
+  gem "github-pages"
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
@@ -13,5 +13,3 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
   gem "bootstrap", "~> 5.3"
 end
-
-gem 'github-pages'
