@@ -5,6 +5,7 @@ group :jekyll_plugins do
   gem 'tzinfo', '~> 2.0'
   gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
   gem 'jekyll'
+  gem "github-pages", group: :jekyll_plugins
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
