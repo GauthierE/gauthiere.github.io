@@ -66,7 +66,7 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
             <abbr class="badge">arXiv</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2502.04879">E-Values Expand the Scope of Conformal Prediction</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2503.13050">E-Values Expand the Scope of Conformal Prediction</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
       <div class="periodical"><em>Preprint.</em>
       </div>
