@@ -23,6 +23,11 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
+  <strong> 🇨🇵 I am honored to be an invited speaker at the conference <a href="https://oceanerc.com/cargese-2/">From Matching to Market: A Tale of Mathematics, Economics and Computer Science</a>, held in Cargèse</strong>
+  <br><em>April 28 - May 02, 2025</em><br>
+  </p>
+
+  <p>
   <strong> I officially started my PhD at <a href="https://www.inria.fr/en">Inria</a> and <a href="https://www.di.ens.fr/">ENS Ulm</a></strong>
   <br><em>September 1, 2024</em><br>
   </p>
