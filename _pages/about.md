@@ -24,7 +24,7 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
   </p> -->
   <p>
   <strong> 🇨🇦 Our paper <a href="https://arxiv.org/abs/2502.04879">Statistical Collusion by Collectives on Learning Platforms</a> received a spotlight at ICML 2025! I will be presenting it in Vancouver this July.</strong>
-  <br><em>June 29 - July 4, 2025</em><br>
+  <br><em>July 13-19, 2025</em><br>
   </p>
 
   <p>
