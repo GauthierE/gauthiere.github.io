@@ -33,17 +33,17 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
   </p>
 
   <p>
-  <strong> 🇨🇵 I am honored to be an invited speaker at the conference <a href="https://oceanerc.com/cargese-2/">From Matching to Market: A Tale of Mathematics, Economics and Computer Science</a>, held in Cargèse</strong>
+  <strong> 🇨🇵 I am honored to be an invited speaker at the conference <a href="https://oceanerc.com/cargese-2/">From Matching to Market: A Tale of Mathematics, Economics and Computer Science</a>, held in Cargèse.</strong>
   <br><em>April 28 - May 2, 2025</em><br>
   </p>
 
   <p>
-  <strong> I officially started my PhD at <a href="https://www.inria.fr/en">Inria</a> and <a href="https://www.di.ens.fr/">ENS Ulm</a></strong>
+  <strong> I officially started my PhD at <a href="https://www.inria.fr/en">Inria</a> and <a href="https://www.di.ens.fr/">ENS Ulm</a>.</strong>
   <br><em>September 1, 2024</em><br>
   </p>
 
   <p>
-  <strong> 🇮🇹 I participated in the <a href="https://oceanerc.com/events/">Ocean Summer Retreat</a> at Ca’ Foscari University of Venice</strong>
+  <strong> 🇮🇹 I participated in the <a href="https://oceanerc.com/events/">Ocean Summer Retreat</a> at Ca’ Foscari University of Venice.</strong>
   <br><em>July 7-12, 2024</em><br>
   </p>
 
