@@ -23,8 +23,18 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
+  <strong> 🇨🇦 Our paper <a href="https://arxiv.org/abs/2502.04879">Statistical Collusion by Collectives on Learning Platforms</a> received a spotlight at ICML 2025! I will be presenting it in Vancouver this July.</strong>
+  <br><em>June 29 - July 4, 2025</em><br>
+  </p>
+
+  <p>
+  <strong> 🇮🇳 Heading to Chennai for the <a href="https://workshops.birs.ca/events/25w5482">3rd Annual Workshop on Game-Theoretic Statistical Inference</a>!</strong>
+  <br><em>June 29 - July 4, 2025</em><br>
+  </p>
+
+  <p>
   <strong> 🇨🇵 I am honored to be an invited speaker at the conference <a href="https://oceanerc.com/cargese-2/">From Matching to Market: A Tale of Mathematics, Economics and Computer Science</a>, held in Cargèse</strong>
-  <br><em>April 28 - May 02, 2025</em><br>
+  <br><em>April 28 - May 2, 2025</em><br>
   </p>
 
   <p>
