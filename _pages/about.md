@@ -73,6 +73,28 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
 <div class="publications">
 <ol class="bibliography">
  <!-- <link rel="stylesheet" href="./assets/css/style.css"> -->
+ <li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/looestimator.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/">Backward Conformal Prediction</a></div>
+      <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
+      <div class="periodical"><em>Preprint.</em>
+      </div>
+  
+  <div class="links">
+  <a href="https://arxiv.org/" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://github.com/GauthierE/backward-cp" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+  <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
+  <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
+  </div>
+  </div>
+</div>
+</li>
+
 
  <li>
 <div class="pub-row">
