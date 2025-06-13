@@ -23,7 +23,7 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
-  <strong> 🇨🇦 Our paper <a href="https://arxiv.org/abs/2502.04879">Statistical Collusion by Collectives on Learning Platforms</a> was selected for an oral presentation at ICML 2025! I will be presenting it in Vancouver this July.</strong>
+  <strong> 🇨🇦 Our paper <a href="https://arxiv.org/abs/2502.04879">Statistical Collusion by Collectives on Learning Platforms</a> was selected for an oral presentation at ICML2025! I will be presenting it in Vancouver this July.</strong>
   <br><em>July 13-19, 2025</em><br>
   </p>
 
