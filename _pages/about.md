@@ -111,6 +111,7 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
   <div class="links">
   <a href="https://arxiv.org/abs/2503.13050" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/evalues-expand-cp" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+  <a href="/files/slides_evalues-expand-cp.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
   <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
   </div>
@@ -133,6 +134,7 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
   <div class="links">
   <a href="https://arxiv.org/abs/2502.04879" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/statistical-collusion" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+  <a href="/files/poster_statistical-collusion.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
   <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
   </div>
