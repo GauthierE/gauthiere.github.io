@@ -21,7 +21,7 @@ repository               : "GauthierE/gauthiere.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "etienne.png"
+  avatar           : "bio-photo.jpg"
   name             : "Etienne Gauthier"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in decision-making within multi-agent systems"

@@ -9,8 +9,6 @@ redirect_from:
 
 I am a first-year PhD student in the [Sierra team](https://sierra-mlopt.github.io/) at [Inria](https://www.inria.fr/en) and [ENS Ulm](https://www.di.ens.fr/), under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). My research focuses on decision-making in multi-agent environments, an area that lies at the intersection of machine learning, statistics, and game theory.
 
-I am particularly interested in understanding how strategic agents can coordinate their actions to shape the decisions of other agents that rely on learning algorithms. I also work on uncertainty quantification, with the broader goal of optimizing multi-agent interactions.
-
 Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learning](https://www.master-mva.com/) at ENS Paris-Saclay and a *Cycle Ingénieur Polytechnicien (X2020)* degree from [École polytechnique](https://www.polytechnique.edu/), where I majored in Applied Mathematics with an additional focus on Mathematics and Computer Science. I also worked on representation theory during a research visit to the [Kyoto University Institute for Advanced Study](https://kuias.kyoto-u.ac.jp/).
 
 ## 📰 Latest News
