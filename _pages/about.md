@@ -21,7 +21,7 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
-  <strong> 🇹🇼 Happy to be part of the <a href="https://www3.stat.sinica.edu.tw/joint2025/">2025 Joint Meeting of the Taipei International Statistical Symposium and the 13th ICSA International Conference (Joint2025)</a> in Taipei, where I will give a talk in a session on advances in conformal prediction.</strong>
+  <strong> 🇹🇼 Happy to be part of the <a href="https://www3.stat.sinica.edu.tw/joint2025/">2025 Joint Meeting of the Taipei International Statistical Symposium and the 13th ICSA International Conference (Joint2025)</a> in Taipei, where I will give a talk in a session on advances in conformal prediction. </strong>
   <br><em>December 17-20, 2025</em><br>
   </p>
 
