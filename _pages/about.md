@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the [Sierra team](https://sierra-mlopt.github.io/) at [Inria](https://www.inria.fr/en) and [ENS Ulm](https://www.di.ens.fr/), under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). My research focuses on decision-making in multi-agent environments, an area that lies at the intersection of machine learning, statistics, and game theory.
+I am a second-year PhD student in the [Sierra team](https://sierra-mlopt.github.io/) at [Inria](https://www.inria.fr/en) and [ENS Ulm](https://www.di.ens.fr/), under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). My research focuses on decision-making in multi-agent environments, an area that lies at the intersection of machine learning, statistics, and game theory.
 
 Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learning](https://www.master-mva.com/) at ENS Paris-Saclay and a *Cycle Ingénieur Polytechnicien (X2020)* degree from [École polytechnique](https://www.polytechnique.edu/), where I majored in Applied Mathematics with an additional focus on Mathematics and Computer Science. I also worked on representation theory during a research visit to the [Kyoto University Institute for Advanced Study](https://kuias.kyoto-u.ac.jp/).
 
@@ -20,6 +20,21 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
     <em>July 1, 2024</em><br>
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
+  <p>
+  <strong> 🇹🇼 Participating in the <a href="https://www3.stat.sinica.edu.tw/joint2025/">2025 Joint Meeting of the Taipei International Statistical Symposium and the 13th ICSA International Conference (Joint2025)</a> in Taipei, where I will give a talk in a session on advances in conformal prediction.</strong>
+  <br><em>December 17-20, 2025</em><br>
+  </p>
+
+  <p>
+  <strong> 🇫🇷 I am invited to give a talk at the <a href="https://sites.google.com/site/semstats/home">Séminaire Parisien de Statistique</a> at <a href="https://www.ihp.fr/fr/recherche">Institut Henri Poincaré</a>.</strong>
+  <br><em>October 13, 2025</em><br>
+  </p>
+
+  <p>
+  <strong> 🇬🇧 Participating in a focused research program at the University of Warwick, working in a small group on a specific topic.</strong>
+  <br><em>September 15-19, 2025</em><br>
+  </p>
+
   <p>
   <strong> 🇫🇷 Excited to participate in the OCEAN Summer Retreat in Paris, where I will present our paper <a href="https://arxiv.org/abs/2503.13050">E-Values Expand the Scope of Conformal Prediction</a>.</strong>
   <br><em>July 21-25, 2025</em><br>
