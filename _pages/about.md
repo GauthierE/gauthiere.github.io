@@ -26,6 +26,11 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
   </p>
 
   <p>
+  <strong> 🇺🇸 Our paper <a href="https://arxiv.org/abs/2505.13732">Backward Conformal Prediction</a> got accepted to NeurIPS 2025! Looking forward to presenting it in San Diego. </strong>
+  <br><em>December 2-7, 2025</em><br>
+  </p>
+
+  <p>
   <strong> 🇫🇷 I am invited to give a talk at the <a href="https://sites.google.com/site/semstats/home">Séminaire Parisien de Statistique</a> at <a href="https://www.ihp.fr/fr/recherche">Institut Henri Poincaré</a>.</strong>
   <br><em>October 13, 2025</em><br>
   </p>
@@ -95,12 +100,12 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/looestimator.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-            <abbr class="badge">arXiv</abbr>
+            <abbr class="badge">NeurIPS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2505.13732">Backward Conformal Prediction</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
-      <div class="periodical"><em>Preprint.</em>
+      <div class="periodical"><em>Advances in Neural Information Processing Systems</em> (NeurIPS), 2025.
       </div>
   
   <div class="links">
