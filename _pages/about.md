@@ -104,13 +104,13 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
             <abbr class="badge">arXiv</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://gauthiere.github.io/">Adaptive Coverage Policies in Conformal Prediction</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2510.04318">Adaptive Coverage Policies in Conformal Prediction</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
       <div class="periodical"><em>Preprint.</em>
       </div>
   
   <div class="links">
-  <!-- <a href="https://arxiv.org/abs/2505.13732" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a> -->
+  <a href="https://arxiv.org/abs/2510.04318" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/adaptive-coverage-policies" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
   <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
