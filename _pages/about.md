@@ -135,6 +135,7 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
   <div class="links">
   <a href="https://arxiv.org/abs/2505.13732" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/backward-cp" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+  <a href="/files/poster_bcp.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
   <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
   </div>
