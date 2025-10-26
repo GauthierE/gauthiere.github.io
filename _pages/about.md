@@ -11,6 +11,8 @@ I am a second-year PhD student in the [Sierra team](https://sierra-mlopt.github.
 
 Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learning](https://www.master-mva.com/) at ENS Paris-Saclay and a *Cycle Ingénieur Polytechnicien (X2020)* degree from [École polytechnique](https://www.polytechnique.edu/), where I majored in Applied Mathematics with an additional focus on Mathematics and Computer Science. I also worked on representation theory during a research visit to the [Kyoto University Institute for Advanced Study](https://kuias.kyoto-u.ac.jp/).
 
+My research is supported by the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/">Google PhD Fellowship in Machine Learning and ML Foundations</a>.
+
 ## 📰 Latest News
 
 <div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 20px; max-height: 300px; overflow-y: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
@@ -28,6 +30,11 @@ Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learnin
   <p>
   <strong> 🇺🇸 Our paper <a href="https://arxiv.org/abs/2505.13732">Backward Conformal Prediction</a> got accepted to NeurIPS 2025! Looking forward to presenting it in San Diego. </strong>
   <br><em>December 2-7, 2025</em><br>
+  </p>
+
+  <p>
+  <strong> Honored to be selected as a <a href="https://research.google/programs-and-events/phd-fellowship/recipients/">Google PhD Fellow</a> in Machine Learning and ML Foundations. </strong>
+  <br><em>November, 2025</em><br>
   </p>
 
   <p>
