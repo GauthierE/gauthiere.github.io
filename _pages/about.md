@@ -111,7 +111,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
             <abbr class="badge">arXiv</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2601.05427">Betting on Equilibrium: Monitoring Strategic Behavior in Multi-Agent Systems</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2601.05427">Betting on Equilibrium: Monitoring Strategic Behavior in Multi-Agent Systems</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
       <div class="periodical"><em>Preprint.</em>
       </div>
@@ -139,7 +139,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
       </div>
   
   <div class="links">
-  <a href="https://arxiv.org/abs/2510.04318" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://arxiv.org/pdf/2510.04318" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/adaptive-coverage-policies" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
   <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
@@ -162,7 +162,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
       </div>
   
   <div class="links">
-  <a href="https://arxiv.org/abs/2505.13732" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://arxiv.org/pdf/2505.13732" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/backward-cp" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
   <a href="/files/poster_bcp.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
@@ -186,7 +186,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
       </div>
   
   <div class="links">
-  <a href="https://arxiv.org/abs/2503.13050" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://arxiv.org/pdf/2503.13050" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/evalues-expand-cp" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
   <a href="/files/slides_evalues-expand-cp.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
@@ -209,7 +209,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
       </div>
   
   <div class="links">
-  <a href="https://arxiv.org/abs/2502.04879" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://arxiv.org/pdf/2502.04879" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/statistical-collusion" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
   <a href="/files/poster_statistical-collusion.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
   <a href="/files/slides_statistical-collusion.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
@@ -233,7 +233,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
       </div>
   
   <div class="links">
-  <a href="https://arxiv.org/abs/2403.08308" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://arxiv.org/pdf/2403.08308" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/interval-replacement" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
   <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
   <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
