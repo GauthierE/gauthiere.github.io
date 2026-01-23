@@ -208,7 +208,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2502.04879">Statistical Collusion by Collectives on Learning Platforms</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
-      <div class="periodical"><em>Proceedings of the International Conference on Machine Learning</em> (ICML), 2025. <span style="color: red;">Oral (top 1%).</span>
+      <div class="periodical"><em>International Conference on Machine Learning</em> (ICML), 2025. <span style="color: red;">Oral (top 1%).</span>
       </div>
   
   <div class="links">
