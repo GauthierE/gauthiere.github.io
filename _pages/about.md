@@ -23,6 +23,11 @@ My research is supported by the <a href="https://research.google/programs-and-ev
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
+  <strong> 🇲🇦 <a href="https://arxiv.org/abs/2510.04318">Adaptive Coverage Policies in Conformal Prediction</a> was accepted to AISTATS, where I will present this work in Tangier. </strong>
+  <br><em>May 2-5, 2026</em><br>
+  </p>
+
+  <p>
   <strong> 🇹🇼 Happy to be part of the <a href="https://www3.stat.sinica.edu.tw/joint2025/">2025 Joint Meeting of the Taipei International Statistical Symposium and the 13th ICSA International Conference (Joint2025)</a> in Taipei, where I will give a talk in a session on advances in conformal prediction. </strong>
   <br><em>December 17-20, 2025</em><br>
   </p>
@@ -119,8 +124,6 @@ My research is supported by the <a href="https://research.google/programs-and-ev
   <div class="links">
   <a href="https://arxiv.org/pdf/2601.05427" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
   <a href="https://github.com/GauthierE/betting-equilibrium" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
-  <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank">BibTex</a>
-  <strong><i style="color:#e74d3c">Early Accept</i></strong> -->
   </div>
   </div>
 </div>
@@ -130,12 +133,12 @@ My research is supported by the <a href="https://research.google/programs-and-ev
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/adaptive-coverage-policies.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-            <abbr class="badge">arXiv</abbr>
+            <abbr class="badge">AISTATS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2510.04318">Adaptive Coverage Policies in Conformal Prediction</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
-      <div class="periodical"><em>Preprint.</em>
+      <div class="periodical"><em>International Conference on Artificial Intelligence and Statistics</em> (AISTATS), 2026.
       </div>
   
   <div class="links">
