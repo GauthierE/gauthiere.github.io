@@ -23,6 +23,11 @@ My research is supported by the <a href="https://research.google/programs-and-ev
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
+  <strong> 🇬🇧 I had the pleasure of presenting my research at the <a href="https://csml.stats.ox.ac.uk/events/">OxCSML seminar</a> at the University of Oxford. </strong>
+  <br><em>March 5-6, 2026</em><br>
+  </p>
+
+  <p>
   <strong> 🇲🇦 <a href="https://arxiv.org/abs/2510.04318">Adaptive Coverage Policies in Conformal Prediction</a> was accepted to AISTATS, where I will present this work in Tangier. </strong>
   <br><em>May 2-5, 2026</em><br>
   </p>
@@ -108,6 +113,26 @@ My research is supported by the <a href="https://research.google/programs-and-ev
 <div class="publications">
 <ol class="bibliography">
  <!-- <link rel="stylesheet" href="./assets/css/style.css"> -->
+
+   <li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/post-hoc-large.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2603.08002">Post-Hoc Large-Sample Statistical Inference</a></div>
+      <div class="author"><strong>Ben Chugg</strong>, <strong>Etienne Gauthier</strong>, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith</div>
+      <div class="periodical"><em>Preprint.</em>
+      </div>
+  
+  <div class="links">
+  <a href="https://arxiv.org/pdf/2603.08002" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://github.com/bchugg/asymp-posthoc-confint" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+  </div>
+  </div>
+</div>
+</li>
 
   <li>
 <div class="pub-row">
