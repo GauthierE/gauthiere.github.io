@@ -122,7 +122,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2605.04266">Explaining and Preventing Alignment Collapse in Iterative RLHF</a></div>
-      <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan/div>
+      <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
       <div class="periodical"><em>Preprint.</em>
       </div>
   
