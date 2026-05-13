@@ -114,6 +114,26 @@ My research is supported by the <a href="https://research.google/programs-and-ev
 <ol class="bibliography">
  <!-- <link rel="stylesheet" href="./assets/css/style.css"> -->
 
+    <li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/fpo.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2605.04266">Explaining and Preventing Alignment Collapse in Iterative RLHF</a></div>
+      <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan/div>
+      <div class="periodical"><em>Preprint.</em>
+      </div>
+  
+  <div class="links">
+  <a href="https://arxiv.org/pdf/2605.04266" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+  <a href="https://github.com/GauthierE/fpo" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+  </div>
+  </div>
+</div>
+</li>
+
    <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -138,12 +158,12 @@ My research is supported by the <a href="https://research.google/programs-and-ev
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/betting-equilibrium.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-            <abbr class="badge">arXiv</abbr>
+            <abbr class="badge">ICML</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2601.05427">Betting on Equilibrium: Monitoring Strategic Behavior in Multi-Agent Systems</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
-      <div class="periodical"><em>Preprint.</em>
+      <div class="periodical"><em>International Conference on Machine Learning</em> (ICML), 2026.
       </div>
   
   <div class="links">
