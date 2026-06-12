@@ -23,7 +23,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
-  <strong> 🇨🇦 Our paper <a href="https://arxiv.org/abs/2601.05427" target="_blank" rel="noopener noreferrer">Anytime Detection of Strategic Deviations in Multi-Agent Systems</a> has been accepted at ICML 2026.</strong>
+  <strong> 🇰🇷 Our paper <a href="https://arxiv.org/abs/2601.05427" target="_blank" rel="noopener noreferrer">Anytime Detection of Strategic Deviations in Multi-Agent Systems</a> has been accepted at ICML 2026.</strong>
   <br><em>July 6-11, 2026</em><br>
   </p>
 
