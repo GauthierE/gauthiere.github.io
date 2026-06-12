@@ -23,6 +23,16 @@ My research is supported by the <a href="https://research.google/programs-and-ev
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
   <p>
+  <strong> 🇨🇦 Our paper <a href="https://arxiv.org/abs/2601.05427" target="_blank" rel="noopener noreferrer">Anytime Detection of Strategic Deviations in Multi-Agent Systems</a> has been accepted at ICML 2026.</strong>
+  <br><em>July 6-11, 2026</em><br>
+  </p>
+
+  <p>
+  <strong> 🇳🇱 Happy to give a talk at <a href="https://savi-conference.github.io/2026/" target="_blank" rel="noopener noreferrer">SAVI 2026</a>. </strong>
+  <br><em>June 29 - July 3, 2026</em><br>
+  </p>
+
+  <p>
   <strong> 🇬🇧 I had the pleasure of presenting my research at the <a href="https://csml.stats.ox.ac.uk/events/">OxCSML seminar</a> at the University of Oxford. </strong>
   <br><em>March 5-6, 2026</em><br>
   </p>
@@ -53,7 +63,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
   </p>
 
   <p>
-  <strong> 🇬🇧 Participating in a focused research program at the University of Warwick, working in a small group on a specific topic.</strong>
+  <strong> 🇬🇧 Participating in a focused research program at the University of Warwick as part of the ERC OCEAN project.</strong>
   <br><em>September 15-19, 2025</em><br>
   </p>
 
@@ -161,7 +171,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
             <abbr class="badge">ICML</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2601.05427">Betting on Equilibrium: Monitoring Strategic Behavior in Multi-Agent Systems</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2601.05427">Anytime Detection of Strategic Deviations in Multi-Agent Systems</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
       <div class="periodical"><em>International Conference on Machine Learning</em> (ICML), 2026.
       </div>
