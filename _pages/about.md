@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the [Sierra team](https://sierra-mlopt.github.io/) at [Inria](https://www.inria.fr/en) and [ENS Ulm](https://www.di.ens.fr/), under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). My research focuses on decision-making in multi-agent environments, an area that lies at the intersection of machine learning, statistics, and game theory.
+I am a third-year PhD student in the [Sierra team](https://sierra-mlopt.github.io/) at [Inria](https://www.inria.fr/en) and [ENS Ulm](https://www.di.ens.fr/), under the supervision of [Francis Bach](https://www.di.ens.fr/~fbach/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). My research focuses on decision-making in multi-agent environments, an area that lies at the intersection of machine learning, statistics, and game theory.
 
 Before my PhD, I earned a Master’s degree in [Mathematics, Vision, and Learning](https://www.master-mva.com/) at ENS Paris-Saclay and a *Cycle Ingénieur Polytechnicien (X2020)* degree from [École polytechnique](https://www.polytechnique.edu/), where I majored in Applied Mathematics with an additional focus on Mathematics and Computer Science. I also worked on representation theory during a research visit to the [Kyoto University Institute for Advanced Study](https://kuias.kyoto-u.ac.jp/).
 
@@ -22,6 +22,11 @@ My research is supported by the <a href="https://research.google/programs-and-ev
     <em>July 1, 2024</em><br>
     I'm excited to announce that I have rejoined Cloudaeye as an ML Researcher.
   </p> -->
+  <p>
+  <strong> 🇦🇺 Excited to be heading to Sydney to present <a href="https://arxiv.org/abs/2605.04266" target="_blank" rel="noopener noreferrer">Explaining and Preventing Alignment Collapse in Iterative RLHF</a> at NeurIPS 2026!</strong>
+  <br><em>July 6-11, 2026</em><br>
+  </p>
+
   <p>
   <strong> 🇰🇷 Our paper <a href="https://arxiv.org/abs/2601.05427" target="_blank" rel="noopener noreferrer">Anytime Detection of Strategic Deviations in Multi-Agent Systems</a> has been accepted at ICML 2026.</strong>
   <br><em>July 6-11, 2026</em><br>
@@ -128,12 +133,12 @@ My research is supported by the <a href="https://research.google/programs-and-ev
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/fpo.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-            <abbr class="badge">arXiv</abbr>
+            <abbr class="badge">NeurIPS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2605.04266">Explaining and Preventing Alignment Collapse in Iterative RLHF</a></div>
       <div class="author"><strong>Etienne Gauthier</strong>, Francis Bach, Michael I. Jordan</div>
-      <div class="periodical"><em>Preprint.</em>
+      <div class="periodical"><em>Advances in Neural Information Processing Systems</em> (NeurIPS), 2026.
       </div>
   
   <div class="links">
