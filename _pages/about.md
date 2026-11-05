@@ -24,7 +24,7 @@ My research is supported by the <a href="https://research.google/programs-and-ev
   </p> -->
   <p>
   <strong> 🇦🇺 Excited to be heading to Sydney to present <a href="https://arxiv.org/abs/2605.04266" target="_blank" rel="noopener noreferrer">Explaining and Preventing Alignment Collapse in Iterative RLHF</a> at NeurIPS 2026!</strong>
-  <br><em>July 6-11, 2026</em><br>
+  <br><em>Dec 6-12, 2026</em><br>
   </p>
 
   <p>
